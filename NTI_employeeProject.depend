@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1724352918 source:e:\aotumotive nti\embedded_c\c_project\nti_employeeproject\main.c
+	"header.h"
+
+1724418446 e:\aotumotive nti\embedded_c\c_project\nti_employeeproject\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1724418233 source:e:\aotumotive nti\embedded_c\c_project\nti_employeeproject\functions.c
+	"header.h"
+
